@@ -20,5 +20,5 @@ A Retrieval-Augmented Generation (RAG) based AI application that allows users to
 ## 🚀 Live Demo
 
 🔗 **Streamlit App:**  
-https://your-app-name.streamlit.app
+https://genai-pdf.streamlit.app/
 
