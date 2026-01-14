@@ -1,5 +1,0 @@
-pandas
-pypdf
-sentence-transformers
-faiss-cpu
-ipywidgets
